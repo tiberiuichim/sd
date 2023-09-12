@@ -12,5 +12,3 @@ Apply the style from an image to another using the Controlnet T2I adapter
 ### NNLatentUpscale
 
 A better latent upscaler
-
-![nnlatentupscale](./nnlatent_upscale.png?raw=true)
